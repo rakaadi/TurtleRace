@@ -1,2 +1,2 @@
 # TurtleRace
-A simple turtle race game with Python.
+A simple turtle race simulation with Python.
